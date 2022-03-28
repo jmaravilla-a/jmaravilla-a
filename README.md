@@ -11,11 +11,12 @@
 const skills = {
   languages: [Javascript, React, Ruby, Rails, HTML, CSS, SCSS],
   tools: [State Management, RESTful API, Redux, Hooks, Libraries, Node, Styled-Components, Git],
+  graduated: True
   stillLearning: True
 }
 ```
 
-<em><b>I love making relationships and am passionate about helping others. So if you want to connect, I'll be more than happy to get to know you!</b></em>
+<em><b>I love making connections and am passionate about helping others. So if you want to connect, I'll be more than happy to get to know you!</b></em>
 
 
 <p><em> You can find me on: 
