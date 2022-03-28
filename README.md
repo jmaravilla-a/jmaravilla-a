@@ -11,7 +11,7 @@
 const skills = {
   languages: [Javascript, React, Ruby, Rails, HTML, CSS, SCSS],
   tools: [State Management, RESTful API, Redux, Hooks, Libraries, Node, Styled-Components, Git],
-  graduated: True
+  graduated: True,
   stillLearning: True
 }
 ```
